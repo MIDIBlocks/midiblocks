@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h2>👩‍💻 <a href="https://github.com/midiblocks/midiblocks-web">Midiblocks</a></h2>
+      <h2>👩‍💻 <a href="https://github.com/midiblocks/midiblocks-web">Midiblocks Web</a></h2>
       <i>A handsfree platform and coding environment for using websites, browsers, desktops, robots...pretty much anything handsfree! Beta 11/8</i><br><br>
       <img src="https://media4.giphy.com/media/YATR9GZSSHKeNw3fht/giphy.gif">
     </td>
