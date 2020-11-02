@@ -4,12 +4,22 @@
     <td valign="top" width="50%">
       <h2>👩‍💻 <a href="https://github.com/midiblocks/midiblocks-web">Midiblocks Web</a></h2>
       <i>A handsfree platform and coding environment for using websites, browsers, desktops, robots...pretty much anything handsfree! Beta 11/8</i><br><br>
-      <img src="https://media4.giphy.com/media/YATR9GZSSHKeNw3fht/giphy.gif">
+      <p><a href="https://www.youtube.com/watch?v=8FQGv_j_lZo"><img src="https://media4.giphy.com/media/YATR9GZSSHKeNw3fht/giphy.gif"></a></p>
+      <p>
+        <a href="https://github.com/midiblocks/midblocks-web"><img src="https://img.shields.io/github/stars/midiblocks/midiblocks-web?style=social"></a>&nbsp;
+        <a href="https://github.com/MIDIBlocks/midiblocks-web/milestone/1"><img src="https://img.shields.io/github/milestones/progress/midiblocks/midiblocks-web/1"></a>&nbsp;
+        <a href="https://github.com/MIDIBlocks/midiblocks-web"><img src="https://img.shields.io/github/last-commit/midiblocks/midiblocks-web"></a>&nbsp;
+      </p>
     </td>
     <td valign="top" width="50%">
       <h2>👋 <a href="https://github.com/midiblocks/handsfree">Handsfree.js</a></h2>
       <i>Handsfree.js exposes several computer vision models around a single API for interacting with websites handsfree via <a href="https://github.com/jeeliz/jeelizWeboji">Weboji</a>, <a href="https://github.com/tensorflow/tfjs-models/tree/master/posenet">PoseNet</a>, <a href="https://github.com/tensorflow/tfjs-models/tree/master/body-pix">BodyPix</a>, and soon others more!</i><br><br>
-      <img src="https://media0.giphy.com/media/Iv2aSMS0QTy2P5JNCX/giphy.gif">
+      <p><a href="https://www.youtube.com/watch?v=kot7bumknXc"><img src="https://media0.giphy.com/media/Iv2aSMS0QTy2P5JNCX/giphy.gif"></a></p>
+      <p>
+        <a href="https://github.com/midiblocks/handsfree"><img src="https://img.shields.io/github/stars/midiblocks/handsfree?style=social"></a>&nbsp;
+        <a href="https://github.com/MIDIBlocks/handsfree/releases"><img src="https://img.shields.io/github/v/tag/midiblocks/handsfree"></a>&nbsp;
+        <a href="https://github.com/MIDIBlocks/handsfree"><img src="https://img.shields.io/github/last-commit/midiblocks/handsfree"></a>&nbsp;
+      </p>
     </td>
   </tr>
 </table>
@@ -24,6 +34,7 @@
 - [ ] Record myself playing the top 25 NES games handsfree through [Midiblocks on YouTube](https://www.youtube.com/channel/UCDzb8yXGOm6ZYd0Jf_FYKWA)
 
 ### Handsfree.js
+- [ ] Get 100 stars so that I can start an [Open Collective](https://opencollective.com/)
 - [ ] Expose [WebGazer](https://github.com/brownhci/WebGazer)
 - [ ] Expose [Handtracking](https://github.com/tensorflow/tfjs-models/tree/master/handpose)
 - [ ] Expose Voice
