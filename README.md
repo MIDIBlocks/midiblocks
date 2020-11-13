@@ -4,7 +4,7 @@
     <td valign="top" width="50%">
       <h2>👩‍💻 <a href="https://github.com/midiblocks/midiblocks-web">Midiblocks Web</a></h2>
       <i>A handsfree platform and coding environment for using websites, browsers, desktops, robots...pretty much anything handsfree! Beta 11/8</i><br><br>
-      <p><a href="https://www.youtube.com/watch?v=ejewJ-3u8lM"><img src="https://media.giphy.com/media/At4M0PpJdmq6pfGySb/source.gif"></a></p>
+      <p><a href="https://www.youtube.com/watch?v=ejewJ-3u8lM"><img src="https://media.giphy.com/media/eABiZprIEtouRZIc75/source.gif" width='100%'></a></p>
       <p>
         <a href="https://github.com/midiblocks/midblocks-web"><img src="https://img.shields.io/github/stars/midiblocks/midiblocks-web?style=social"></a>&nbsp;
         <a href="https://github.com/MIDIBlocks/midiblocks-web/milestone/1"><img src="https://img.shields.io/github/milestones/progress/midiblocks/midiblocks-web/1"></a>&nbsp;
