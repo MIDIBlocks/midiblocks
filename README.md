@@ -3,7 +3,7 @@
   <tr>
     <td valign="top" width="50%">
       <h2>👩‍💻 <a href="https://github.com/midiblocks/midiblocks-web">Midiblocks Web</a></h2>
-      <i>A handsfree platform and coding environment for using websites, browsers, desktops, robots...pretty much anything handsfree! Beta 11/8</i><br><br>
+      <i>A handsfree platform and coding environment for using websites, browsers, desktops, robots...pretty much anything handsfree!</i><br><br>
       <p><a href="https://www.youtube.com/watch?v=ejewJ-3u8lM"><img src="https://media.giphy.com/media/eABiZprIEtouRZIc75/source.gif" width='100%'></a></p>
       <p>
         <a href="https://github.com/midiblocks/midblocks-web"><img src="https://img.shields.io/github/stars/midiblocks/midiblocks-web?style=social"></a>&nbsp;
@@ -35,7 +35,7 @@
 
 ### Handsfree.js
 - [ ] Get 100 stars so that I can start an [Open Collective](https://opencollective.com/)
-- [] Expose [WebGazer](https://github.com/brownhci/WebGazer)
+- [ ] Expose [WebGazer](https://github.com/brownhci/WebGazer)
 - [👷‍♂️] Expose [Handtracking](https://github.com/tensorflow/tfjs-models/tree/master/handpose)
 - [ ] Expose Voice
 - [ ] Expose Mind Control
