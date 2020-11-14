@@ -1,9 +1,9 @@
-<img src="https://i.imgur.com/ucvNYzR.png"></img>
+<img src="https://i.imgur.com/At4Wqht.png"></img>
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h2>👩‍💻 <a href="https://github.com/midiblocks/midiblocks-web">Midiblocks Web</a></h2>
-      <i>A handsfree platform and coding environment for using websites, browsers, desktops, robots...pretty much anything handsfree!</i><br><br>
+      <h2>👩‍💻 <a href="https://github.com/midiblocks/midiblocks-web">Midiblocks</a></h2>
+      <i>Map face (and soon hand, voice, and brain waves) gestures to a mouse, keyboard, virtual game controller and MIDI device, a robot or drone...pretty much anything!</i><br><br>
       <p><a href="https://www.youtube.com/watch?v=ejewJ-3u8lM"><img src="https://media.giphy.com/media/eABiZprIEtouRZIc75/source.gif" width='100%'></a></p>
       <p>
         <a href="https://github.com/midiblocks/midblocks-web"><img src="https://img.shields.io/github/stars/midiblocks/midiblocks-web?style=social"></a>&nbsp;
