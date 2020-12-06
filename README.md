@@ -4,7 +4,7 @@ Hello 👋 I'm [Oz Ramos](https://twitter.com/midiblocks) and I'm working on a p
 
 Handsfree.js is a library designed to help you add face, hand, and pose tracking to your projects in a snap. I personally use it to help me research ways to interact with the web and desktop handsfree, but it can also be used for:
 
-- Interacting with various environments like Three.js and A-Frame and WebXR
+- Interacting with various environments like Three.js and A-Frame and interfaces like WebXR
 - Elegantly puppeteering commercial robots like a UR5 Robot
 - Researching and developing handsfree assistive technologies like Face and Hand Pointers
 - Quickly setting up low cost and easy to maintain handsfree kiosks
