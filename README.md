@@ -1,24 +1,24 @@
 ![](https://i.imgur.com/At4Wqht.png)
 
-Hello 👋
+Hello 👋 I'm [Oz Ramos](https://twitter.com/midiblocks) and working on a project called [Handsfree.js.org](https://handsfree.js.org) which is designed to help you help you control things handsfree. That site is the interactive [Vuepress documentation for Handsfree.js](htpss://github.com/midiblocks/handsfree), designed to help you get started quickly (although it's still a work in progress 😅)
 
-My name is [Oz Ramos](https://twitter.com/midiblocks) I have a strong passion for researching and developing browser based handsfree user experiences. I originally started on these efforts while homeless in 2018 to help someone at the shelter recovering from a stroke reconnect with his family online, but it's since become an obsession.
+Handsfree.js is a library designed to help you add face, hand, and pose tracking to your projects in a snap. I personally use it to help me research ways to interact with the web and desktop handsfree, but it can also be used for:
 
-Over the years I've created [many dozens of experiments](https://glitch.com/@ozramos) and I'm now using my lessons learned to create [Midiblocks](https://midiblocks.com), a handsfree assistive tech tool making kit and gesture mapper which is itself powered by [Handsfree.js](https://handsfree.js.org) and [Google's Blockly](https://developers.google.com/blockly).
-<br>
-<br>
-<br>
-<hr>
-<br>
-<br>
-<br>
+- Interacting with various environments like Three.js and A-Frame and WebXR
+- Elegantly puppeteering commercial robots like a UR5 Robot
+- Researching and developing handsfree assistive technologies like Face and Hand Pointers
+- Quickly setting up low cost and easy to maintain handsfree kiosks
+- Creating handsfree mappers to common apps like FL Studio and games on Steam
+- Creating psychedelic 3d projected motion tracked hyper immersive portable holodecks
+
+Midiblocks.com is designed to help you use gestures to map new gestures to things like a mouse and keyboard, a virtual game controller, a MIDI device, ect from a web browser. It comes with a scripting environment and Blockly powered visual mapping environment optimized to itself be used handsfree.
 
 <h2>My Main Efforts</h2>
 <table>
   <tr>
     <td valign="top" width="50%">
       <h2>👌 <a href="https://github.com/midiblocks/handsfree">Handsfree.js</a></h2>
-      <i>A wrapper library around computer vision models for interacting with devices handsfree through pose, face, and hand tracking</i><br><br>
+      <i>Handsfree.js is a library designed to help you quickly add face, hand, and pose tracking to your JavaScript projects in a snap</i><br><br>
       <p><a href="https://github.com/midiblocks/handsfree"><img src="https://media.giphy.com/media/Iv2aSMS0QTy2P5JNCX/source.gif"></a></p>
       <p><a href="https://github.com/midiblocks/handsfree"><img src="https://media0.giphy.com/media/FxLUuTSxXjJPx8K9L4/giphy.gif"></a></p>
       <p>
