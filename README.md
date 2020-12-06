@@ -19,7 +19,8 @@ Over the years I've created [many dozens of experiments](https://glitch.com/@ozr
     <td valign="top" width="50%">
       <h2>👌 <a href="https://github.com/midiblocks/handsfree">Handsfree.js</a></h2>
       <i>A wrapper library around computer vision models for interacting with devices handsfree through pose, face, and hand tracking</i><br><br>
-      <p><a href="https://www.youtube.com/watch?v=lb-Bkejm0Pg"><img src="https://media.giphy.com/media/Iv2aSMS0QTy2P5JNCX/source.gif"></a></p>
+      <p><a href="https://github.com/midiblocks/handsfree"><img src="https://media.giphy.com/media/Iv2aSMS0QTy2P5JNCX/source.gif"></a></p>
+      <p><a href="https://github.com/midiblocks/handsfree"><img src="https://media0.giphy.com/media/FxLUuTSxXjJPx8K9L4/giphy.gif"></a></p>
       <p>
         <a href="https://github.com/midiblocks/handsfree"><img src="https://img.shields.io/github/stars/midiblocks/handsfree?style=social"></a>&nbsp;
         <a href="https://github.com/MIDIBlocks/handsfree/releases"><img src="https://img.shields.io/github/v/tag/midiblocks/handsfree"></a>&nbsp;
@@ -30,6 +31,7 @@ Over the years I've created [many dozens of experiments](https://glitch.com/@ozr
       <h2>👩‍💻 <a href="https://github.com/midiblocks/midiblocks-web">Midiblocks</a></h2>
       <i>Map face gestures to a mouse, keyboard, virtual game controller, MIDI device, robot, drone...pretty much anything!</i><br><br>
       <p><a href="https://www.youtube.com/watch?v=ejewJ-3u8lM"><img src="https://media3.giphy.com/media/xssRMqGffgh5pnlXtk/giphy.gif" width='100%'></a></p>
+      <p><a href="https://www.youtube.com/watch?v=ejewJ-3u8lM"><img src="https://media4.giphy.com/media/eABiZprIEtouRZIc75/giphy.gif" width='100%'></a></p>
       <p>
         <a href="https://github.com/midiblocks/midblocks-web"><img src="https://img.shields.io/github/stars/midiblocks/midiblocks-web?style=social"></a>&nbsp;
         <a href="https://github.com/MIDIBlocks/midiblocks-web/milestone/1"><img src="https://img.shields.io/github/milestones/progress/midiblocks/midiblocks-web/1"></a>&nbsp;
