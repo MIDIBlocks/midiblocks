@@ -103,5 +103,5 @@ Over the years I've created [many dozens of experiments](https://glitch.com/@ozr
 
 > 🙋‍♂️ I'm looking for a job related to assistive technology R&D or brain computer interfaces. My strengths are in JavaScript, Vue.js, TensorFlow.js (including training custom models), Blockly, Firebase, and so much more.
 >
-> If your team is hiring, please let me know by emailing me at my username at gmail dot com. Please see below for my resume. Thanks 🙏
+> If your team is hiring, please let me know by emailing me at my "midiblocks at gmail dot com". Thanks 🙏
 
