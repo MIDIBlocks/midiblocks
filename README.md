@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/At4Wqht.png)
 
-Hello 👋 I'm [Oz Ramos](https://twitter.com/midiblocks) and working on a project called [Handsfree.js.org](https://handsfree.js.org) which is designed to help you help you control things handsfree. That site is the interactive [Vuepress documentation for Handsfree.js](htpss://github.com/midiblocks/handsfree), designed to help you get started quickly (although it's still a work in progress 😅)
+Hello 👋 I'm [Oz Ramos](https://twitter.com/midiblocks) and I'm working on a project called [Handsfree.js.org](https://handsfree.js.org) designed to help you research and develop handsfree user experiences with JavaScript. That site is the interactive [Vuepress documentation for Handsfree.js](htpss://github.com/midiblocks/handsfree), designed to help you get started quickly (although it's still a work in progress 😅)
 
 Handsfree.js is a library designed to help you add face, hand, and pose tracking to your projects in a snap. I personally use it to help me research ways to interact with the web and desktop handsfree, but it can also be used for:
 
