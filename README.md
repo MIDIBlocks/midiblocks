@@ -1,17 +1,8 @@
 ![](https://i.imgur.com/At4Wqht.png)
 
-Hello 👋 I'm [Oz Ramos](https://twitter.com/midiblocks) and I'm working on a project called [Handsfree.js.org](https://handsfree.js.org) designed to help you research and develop handsfree user experiences with JavaScript. That site is the interactive [Vuepress documentation for Handsfree.js](htpss://github.com/midiblocks/handsfree), designed to help you get started quickly (although it's still a work in progress 😅)
+Hello 👋 I'm [Oz Ramos](https://twitter.com/midiblocks) and I'm working on a project called [Handsfree.js.org](https://handsfree.js.org) designed to help you research and develop handsfree user experiences with JavaScript.
 
-Handsfree.js is a library designed to help you add face, hand, and pose tracking to your projects in a snap. I personally use it to help me research ways to interact with the web and desktop handsfree, but it can also be used for:
-
-- Interacting with various environments like Three.js and A-Frame and interfaces like WebXR
-- Elegantly puppeteering commercial robots like a UR5 Robot
-- Researching and developing handsfree assistive technologies like Face and Hand Pointers
-- Quickly setting up low cost and easy to maintain handsfree kiosks
-- Creating handsfree mappers to common apps like FL Studio and games on Steam
-- Creating psychedelic 3d projected motion tracked hyper immersive portable holodecks
-
-Midiblocks.com is designed to help you use gestures to map new gestures to things like a mouse and keyboard, a virtual game controller, a MIDI device, ect from a web browser. It comes with a scripting environment and Blockly powered visual mapping environment optimized to itself be used handsfree.
+Meanwhile, [Midiblocks.com](https://midiblocks.com) is designed to help you use gestures to map new gestures to things like a mouse and keyboard, a virtual game controller, a MIDI device, ect from a web browser. It's designed to be used completely handsfree, and even comes with a [Blockly block editor](https://developers.google.com/blockly) and a [Monaco Editor](https://microsoft.github.io/monaco-editor/) for scripting new blocks.
 
 <h2>My Main Efforts</h2>
 <table>
