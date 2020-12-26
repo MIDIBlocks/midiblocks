@@ -1,8 +1,6 @@
 ![](https://i.imgur.com/At4Wqht.png)
 
-Hello 👋 I'm [Oz Ramos](https://twitter.com/midiblocks) and I'm working on a project called [Handsfree.js.org](https://handsfree.js.org) designed to help you research and develop handsfree user experiences with JavaScript.
-
-Meanwhile, [Midiblocks.com](https://midiblocks.com) is designed to help you use gestures to map new gestures to things like a mouse and keyboard, a virtual game controller, a MIDI device, ect from a web browser. It's designed to be used completely handsfree, and even comes with a [Blockly block editor](https://developers.google.com/blockly) and a [Monaco Editor](https://microsoft.github.io/monaco-editor/) for scripting new blocks.
+Hello 👋 I'm [Oz Ramos](https://twitter.com/midiblocks) and I'm working on a project called [Handsfree.js.org](https://handsfree.js.org) designed to help you research and develop handsfree user experiences and assistive technologies with JavaScript. I've been working on these efforts for close to 3 years and I go to bed and wake up every day super pumped to handsfree-ify new things. [Check out my GitHub Sponsors](https://github.com/sponsors/midiblocks) page for more about me and these efforts.
 
 <h2>My Main Efforts</h2>
 <table>
@@ -10,8 +8,8 @@ Meanwhile, [Midiblocks.com](https://midiblocks.com) is designed to help you use 
     <td valign="top" width="50%">
       <h2>👌 <a href="https://github.com/midiblocks/handsfree">Handsfree.js</a></h2>
       <i>Handsfree.js is a library designed to help you quickly add face, hand, and pose tracking to your JavaScript projects in a snap</i><br><br>
-      <p><a href="https://github.com/midiblocks/handsfree"><img src="https://media.giphy.com/media/Iv2aSMS0QTy2P5JNCX/source.gif"></a></p>
-      <p><a href="https://github.com/midiblocks/handsfree"><img src="https://media0.giphy.com/media/FxLUuTSxXjJPx8K9L4/giphy.gif"></a></p>
+      <p><a href="https://github.com/midiblocks/handsfree"><img src="https://media4.giphy.com/media/BBcnSU1IJ5tpQbwXDI/giphy.gif"></a></p>
+      <p><a href="https://github.com/midiblocks/handsfree"><img src="https://media4.giphy.com/media/tQ1vFtoMWWpgdCoJJj/giphy.gif"></a></p>
       <p>
         <a href="https://github.com/midiblocks/handsfree"><img src="https://img.shields.io/github/stars/midiblocks/handsfree?style=social"></a>&nbsp;
         <a href="https://github.com/MIDIBlocks/handsfree/releases"><img src="https://img.shields.io/github/v/tag/midiblocks/handsfree"></a>&nbsp;
@@ -19,22 +17,32 @@ Meanwhile, [Midiblocks.com](https://midiblocks.com) is designed to help you use 
       </p>
     </td>
     <td valign="top" width="50%">
+      <h2>👩‍💻 <a href="https://github.com/midiblocks/handsfree-webxr">Handsfree WebXR</a></h2>
+      <i>A Chrome Extension that uses computer vision to emulate WebXR headsets and controllers</i><br><br>
+      <p><a href="https://www.youtube.com/watch?v=XQcW57jN7b8"><img src="https://media3.giphy.com/media/w3JUFtNyXNafLVrh6F/giphy.gif" width='100%'></a></p>
+      <p>
+        <a href="https://github.com/MIDIBlocks/handsfree-webxr"><img src="https://img.shields.io/github/last-commit/midiblocks/handsfree-webxr"></a>&nbsp;
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
       <h2>👩‍💻 <a href="https://github.com/midiblocks/midiblocks-web">Midiblocks</a></h2>
       <i>Map face gestures to a mouse, keyboard, virtual game controller, MIDI device, robot, drone...pretty much anything!</i><br><br>
       <p><a href="https://www.youtube.com/watch?v=ejewJ-3u8lM"><img src="https://media3.giphy.com/media/xssRMqGffgh5pnlXtk/giphy.gif" width='100%'></a></p>
       <p><a href="https://www.youtube.com/watch?v=ejewJ-3u8lM"><img src="https://media4.giphy.com/media/eABiZprIEtouRZIc75/giphy.gif" width='100%'></a></p>
       <p>
-        <a href="https://github.com/midiblocks/midblocks-web"><img src="https://img.shields.io/github/stars/midiblocks/midiblocks-web?style=social"></a>&nbsp;
         <a href="https://github.com/MIDIBlocks/midiblocks-web/milestone/1"><img src="https://img.shields.io/github/milestones/progress/midiblocks/midiblocks-web/1"></a>&nbsp;
         <a href="https://github.com/MIDIBlocks/midiblocks-web"><img src="https://img.shields.io/github/last-commit/midiblocks/midiblocks-web"></a>&nbsp;
       </p>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <h2>💰 <a href="https://github.com/MIDIBlocks/assistive-tech-research-funding">Assistive Tech Research Funding</a></h2>
-      <i>A collection of resources for getting your real-life super abilities funded</i><br><br>
+    <td valign="top" width="50%">
+      <h2>💰 <a href="https://github.com/MIDIBlocks/awesome-funding">Awesome Funding</a></h2>
+      <i>A collection of resources for getting your creative projects funded (currently a strong focus on Assistive Tech)</i><br><br>
       <p><a href="https://github.com/MIDIBlocks/assistive-tech-research-funding"><img src="https://i.imgur.com/9DxF8ot.jpg"></a></p>
+      <p>
+        <a href="https://github.com/MIDIBlocks/awesome-funding"><img src="https://img.shields.io/github/last-commit/midiblocks/awesome-funding"></a>&nbsp;
+      </p>
     </td>
   </tr>
 </table>
