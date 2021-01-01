@@ -17,11 +17,12 @@ Hello 👋 I'm [Oz Ramos](https://twitter.com/midiblocks) and I'm working on a p
       </p>
     </td>
     <td valign="top" width="50%">
-      <h2>👩‍💻 <a href="https://github.com/midiblocks/handsfree-webxr">Handsfree WebXR</a></h2>
-      <i>A Chrome Extension that uses computer vision to emulate WebXR headsets and controllers</i><br><br>
+      <h2>👩‍💻 <a href="https://github.com/midiblocks/handsfree-browser">Handsfree Browser</a></h2>
+      <i>A Chrome Extension that uses computer vision to help you browse handsfree. Adds a WebXR DevTools tab to help you emulate headsets and controllers with your head and hands!</i><br><br>
       <p><a href="https://www.youtube.com/watch?v=XQcW57jN7b8"><img src="https://media3.giphy.com/media/w3JUFtNyXNafLVrh6F/giphy.gif" width='100%'></a></p>
+      <p><a href="https://www.youtube.com/watch?v=XQcW57jN7b8"><img src="https://media1.giphy.com/media/BSkodGjuwBPAEwxjGv/giphy.gif" width='100%'></a></p>
       <p>
-        <a href="https://github.com/MIDIBlocks/handsfree-webxr"><img src="https://img.shields.io/github/last-commit/midiblocks/handsfree-webxr"></a>&nbsp;
+        <a href="https://github.com/MIDIBlocks/handsfree-browser"><img src="https://img.shields.io/github/last-commit/midiblocks/handsfree-browser"></a>&nbsp;
       </p>
     </td>
   </tr>
